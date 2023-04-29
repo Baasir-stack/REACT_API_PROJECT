@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Baasir-stack/REACT_API_PROJECT/static/css/main.da30eb2e.css",
-    "main.js": "/Baasir-stack/REACT_API_PROJECT/static/js/main.9a5c3441.js",
-    "index.html": "/Baasir-stack/REACT_API_PROJECT/index.html",
-    "main.da30eb2e.css.map": "/Baasir-stack/REACT_API_PROJECT/static/css/main.da30eb2e.css.map",
-    "main.9a5c3441.js.map": "/Baasir-stack/REACT_API_PROJECT/static/js/main.9a5c3441.js.map"
+    "main.css": "/REACT_API_PROJECT/static/css/main.da30eb2e.css",
+    "main.js": "/REACT_API_PROJECT/static/js/main.9a5c3441.js",
+    "index.html": "/REACT_API_PROJECT/index.html",
+    "main.da30eb2e.css.map": "/REACT_API_PROJECT/static/css/main.da30eb2e.css.map",
+    "main.9a5c3441.js.map": "/REACT_API_PROJECT/static/js/main.9a5c3441.js.map"
   },
   "entrypoints": [
     "static/css/main.da30eb2e.css",
